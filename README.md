@@ -1,4 +1,4 @@
-# Radio Console
+# PENGUIN RADIO 
 
 Listen to any radio station world wide with penguin radio !! 
 Using the RadioBrowser API we can harness the power of radio in a simple console :)
